@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&height=50&lines=4%2B+Years+of+Experience;Frontend+%7C+Backend+%7C+Shopify+Developer;Next.js+%7C+React+%7C+Node.js+%7C+Shopify" alt="Typing SVG" />
 </a>
 
-<h3>I build fast, good-looking online stores and websites that help businesses sell more.</h3>
-
 <b>📍 Karachi, Pakistan &nbsp;•&nbsp; 💼 4+ Years Experience &nbsp;•&nbsp; 🟢 Available for New Projects</b>
 
 <br/><br/>
@@ -25,39 +23,60 @@
 
 </div>
 
-<h2 align="center">👋 About Me</h2>
-
-<p align="center">
-  Hi, I'm <b>Rayyan</b>, a <b>Full Stack Developer & Shopify Expert</b>.<br/>
-  I help business owners go from <b>"I have an idea"</b> to <b>"my store is live and selling"</b>.<br/>
-  I handle everything: design, code, payments, shipping and speed, so you can focus on your business.
-</p>
-
-<h2 align="center">🛍️ What I Can Do For You</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
 <div align="center">
 
-| Service | What You Get |
-|:--|:--|
-| 🚀 **Complete Shopify Store Setup** | Your store built from zero and ready to take orders |
-| 🎨 **Theme Customization & Liquid Code** | Your store's look and features changed exactly how you want |
-| 📦 **Dropshipping Store + Product Hunting** | A dropshipping store with winning products picked for you |
-| 💳 **Payment, Shipping & Domain Setup** | Payments, delivery and your own domain, all connected |
-| ⚡ **Speed & Sales-Focused Design** | A faster website that turns more visitors into buyers |
-| 🌐 **Fast, Scalable Websites** | Custom websites that stay fast as your business grows |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=A78BFA&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%91%8B+About+Me" alt="👋 About Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&height=190&repeat=true&multiline=true&lines=Hi%2C+I%27m+Rayyan%2C+a+Full+Stack+Developer+%26+Shopify+Expert.;I+help+business+owners+go+from+%22I+have+an+idea%22;to+%22my+store+is+live+and+selling%22.;I+handle+everything%3A+design%2C+code%2C+payments%2C;shipping+and+speed%2C+so+you+can+focus+on+your+business." alt="Hi, I&#x27;m Rayyan, a Full Stack Developer &amp; Shopify Expert. I help business owners go from &quot;I have an idea&quot; to &quot;my store is live and selling&quot;. I handle everything: design, code, payments, shipping and speed, so you can focus on your business." />
+
+<br/>
+<img src="https://img.shields.io/badge/Design-That%20Sells-7C3AED?style=for-the-badge" alt="Design That Sells" />
+<img src="https://img.shields.io/badge/Code-That%20Scales-06B6D4?style=for-the-badge" alt="Code That Scales" />
+<img src="https://img.shields.io/badge/Results-That%20Show-10B981?style=for-the-badge" alt="Results That Show" />
 
 </div>
 
-<h2 align="center">🌐 Websites I Build</h2>
-
-<p align="center">
-  🏬 <b>Online Stores</b> &nbsp;•&nbsp; 🏢 <b>Business Websites</b> &nbsp;•&nbsp; 💼 <b>Portfolios</b><br/>
-  📄 <b>Landing Pages</b> &nbsp;•&nbsp; 📊 <b>Web Apps & Dashboards</b> &nbsp;•&nbsp; 🔌 <b>APIs & Backends</b>
-</p>
-
-<h2 align="center">🧰 Tools I Use</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="100%" alt="divider" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=F472B6&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%9B%8D%EF%B8%8F+What+I+Can+Do+For+You" alt="🛍️ What I Can Do For You" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=800&height=224&repeat=true&multiline=true&lines=%F0%9F%9A%80+Complete+Shopify+Store+Setup%3A+Zero+to+Live;%F0%9F%8E%A8+Theme+Customization+%26+Liquid+Code%3A+Your+Brand%2C+Your+Way;%F0%9F%93%A6+Dropshipping+Store+%2B+Product+Hunting%3A+Winning+Products;%F0%9F%92%B3+Payment%2C+Shipping+%26+Domain+Setup%3A+All+Connected;%E2%9A%A1+Speed+Optimization+%26+Sales-Focused+Design;%F0%9F%8C%90+Fast%2C+Scalable%2C+Conversion-Focused+Websites" alt="🚀 Complete Shopify Store Setup: Zero to Live 🎨 Theme Customization &amp; Liquid Code: Your Brand, Your Way 📦 Dropshipping Store + Product Hunting: Winning Products 💳 Payment, Shipping &amp; Domain Setup: All Connected ⚡ Speed Optimization &amp; Sales-Focused Design 🌐 Fast, Scalable, Conversion-Focused Websites" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,7&height=3&section=header" width="100%" alt="divider" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=34D399&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%8C%90+Websites+I+Build" alt="🌐 Websites I Build" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=800&height=122&repeat=true&multiline=true&lines=%F0%9F%8F%AC+Online+Stores+%7C+%F0%9F%8F%A2+Business+Websites+%7C+%F0%9F%92%BC+Portfolios;%F0%9F%93%84+Landing+Pages+%7C+%F0%9F%93%8A+Web+Apps+%7C+%F0%9F%94%8C+APIs+%26+Backends;If+you+can+imagine+it%2C+I+can+build+it." alt="🏬 Online Stores | 🏢 Business Websites | 💼 Portfolios 📄 Landing Pages | 📊 Web Apps | 🔌 APIs &amp; Backends If you can imagine it, I can build it." />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,8&height=3&section=header" width="100%" alt="divider" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=FBBF24&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%E2%AD%90+Why+Work+With+Me" alt="⭐ Why Work With Me" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&height=156&repeat=true&multiline=true&lines=%E2%9A%A1+Fast+delivery+and+lightning-fast+websites;%F0%9F%8E%AF+Designs+made+to+turn+visitors+into+buyers;%F0%9F%9B%A1%EF%B8%8F+Clean%2C+scalable+code+that+lasts;%F0%9F%A4%9D+Friendly+support+even+after+launch" alt="⚡ Fast delivery and lightning-fast websites 🎯 Designs made to turn visitors into buyers 🛡️ Clean, scalable code that lasts 🤝 Friendly support even after launch" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,14&height=3&section=header" width="100%" alt="divider" />
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=38BDF8&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%A7%B0+Tools+I+Use" alt="🧰 Tools I Use" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&height=54&repeat=true&multiline=true&lines=Everything+your+website+needs%2C+from+front+to+back." alt="Everything your website needs, from front to back." />
+
+<br/>
 
 | Area | What It Means | Tools |
 |:--|:--|:--|
@@ -67,32 +86,35 @@
 
 </div>
 
-<h2 align="center">🔄 How It Works</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,5&height=3&section=header" width="100%" alt="divider" />
 
 <div align="center">
 
-| 1️⃣ Tell Me Your Idea | 2️⃣ I Design It | 3️⃣ I Build It | 4️⃣ You Go Live |
-|:--:|:--:|:--:|:--:|
-| Share your goals and what you sell | Modern layout made to convert | Clean, fast, reliable code | Launch plus support afterwards |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=FB923C&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%94%84+How+It+Works" alt="🔄 How It Works" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=760&height=156&repeat=true&multiline=true&lines=1+%E2%86%92+Tell+me+your+idea+and+goals;2+%E2%86%92+I+design+a+modern+layout+that+converts;3+%E2%86%92+I+build+it+with+clean%2C+fast+code;4+%E2%86%92+You+go+live%2C+with+support+afterwards" alt="1 → Tell me your idea and goals 2 → I design a modern layout that converts 3 → I build it with clean, fast code 4 → You go live, with support afterwards" />
 
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=60A5FA&center=true&vCenter=true&width=640&height=55&repeat=true&lines=%F0%9F%93%8A+GitHub+Stats" alt="📊 GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=rxyyanweb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
-<h2 align="center">💬 Let's Work Together</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="100%" alt="divider" />
 
 <div align="center">
 
-<p>
-  Need a <b>Shopify store</b> or <b>any type of website</b>?<br/>
-  Message me on WhatsApp and let's talk about your project. 🚀
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=3500&color=25D366&center=true&vCenter=true&width=700&height=55&repeat=true&lines=%F0%9F%92%AC+Let%27s+Work+Together" alt="💬 Let's Work Together" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=900&color=E5E7EB&center=true&vCenter=true&width=800&height=88&repeat=true&multiline=true&lines=Need+a+Shopify+store+or+any+type+of+website%3F;Message+me+on+WhatsApp+and+let%27s+talk+about+your+project%21+%F0%9F%9A%80" alt="Need a Shopify store or any type of website? Message me on WhatsApp and let&#x27;s talk about your project! 🚀" />
+
+<br/>
 
 <a href="https://wa.me/923481807287">
   <img src="https://img.shields.io/badge/WhatsApp-Let%27s_Build_Your_Store-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Let's Build Your Store" />
