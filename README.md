@@ -42,9 +42,15 @@
 
 <br/><br/>
 
-| 🧑‍💻 Role | 📍 Base | 🏆 Experience | 🟢 Status |
-|:---:|:---:|:---:|:---:|
-| Full Stack Developer & Shopify Expert | Karachi, PK | 4+ Years | Open for New Projects |
+<img src="https://img.shields.io/badge/ROLE-Full_Stack_Developer_%26_Shopify_Expert-7C3AED?style=for-the-badge" alt="Role" />
+<img src="https://img.shields.io/badge/BASE-Karachi,_Pakistan-EC4899?style=for-the-badge" alt="Base" />
+<br/>
+<img src="https://img.shields.io/badge/EXPERIENCE-4%2B_Years-06B6D4?style=for-the-badge" alt="Experience" />
+<img src="https://img.shields.io/badge/STATUS-Open_for_New_Projects-10B981?style=for-the-badge" alt="Status" />
+
+<br/><br/>
+
+<b>⚡ Speed &nbsp;•&nbsp; 🎯 Conversion &nbsp;•&nbsp; 🛡️ Clean Code &nbsp;•&nbsp; 🤝 Ongoing Support</b>
 
 </div>
 
@@ -55,14 +61,38 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=F472B6&center=true&vCenter=true&width=600&height=55&lines=Services+I+Offer;Premium+Solutions;Built+To+Convert" alt="Services" />
 
-| 🛍️ Service | ✨ What You Get |
-|:---|:---|
-| **🚀 Complete Shopify Store Setup** | Zero to Live: a fully working, launch-ready store |
-| **🎨 Theme Customization & Liquid Code** | Custom sections, layouts and features tailored to your brand |
-| **📦 Dropshipping Store Setup + Product Hunting** | Winning products plus a store engineered to sell |
-| **💳 Payment, Shipping & Domain Setup** | Gateways, delivery rules and your domain, all configured |
-| **⚡ Speed Optimization & Sales Focused Design** | Lightning-fast load times, cleaner UX, higher conversions |
-| **🌐 Fast, Scalable & Conversion-Focused Websites** | Modern custom websites built to grow with your business |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/01-Complete_Shopify_Store_Setup-7C3AED?style=for-the-badge" alt="Store Setup" /><br/>
+      <sub>🚀 Zero to Live: a fully working, launch-ready store</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/02-Theme_Customization_%26_Liquid_Code-EC4899?style=for-the-badge" alt="Theme Customization" /><br/>
+      <sub>🎨 Custom sections, layouts & features tailored to your brand</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/03-Dropshipping_Setup_%2B_Product_Hunting-10B981?style=for-the-badge" alt="Dropshipping" /><br/>
+      <sub>📦 Winning products plus a store engineered to sell</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/04-Payment,_Shipping_%26_Domain_Setup-3B82F6?style=for-the-badge" alt="Payment Shipping Domain" /><br/>
+      <sub>💳 Gateways, delivery rules and your domain, all configured</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/05-Speed_Optimization_%26_Sales_Design-F59E0B?style=for-the-badge" alt="Speed Optimization" /><br/>
+      <sub>⚡ Lightning-fast load times, cleaner UX, higher conversions</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/06-Conversion--Focused_Websites-06B6D4?style=for-the-badge" alt="Websites" /><br/>
+      <sub>🌐 Fast, scalable custom websites built to grow with you</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -73,14 +103,35 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Tech+Stack;My+Toolbox;Modern+%26+Powerful" alt="Tech Stack" />
 
-### 🎨 Frontend
-`TypeScript` `JavaScript` `Next.js` `React.js` `Tailwind CSS` `HTML5` `CSS3`
+<img src="https://img.shields.io/badge/-FRONTEND-7C3AED?style=for-the-badge" alt="Frontend" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/JavaScript-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/React.js-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/HTML5-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
+<img src="https://img.shields.io/badge/CSS3-1E1B4B?style=flat-square&labelColor=7C3AED" alt="" />
 
-### ⚙️ Backend
-`Node.js` `Express.js` `MongoDB` `REST APIs` `Postman`
+<br/><br/>
 
-### 🛒 Shopify
-`Store Setup` `Theme Customization` `Liquid Code` `Dropshipping Setup` `Product Hunting` `Payment Setup` `Shipping Setup` `Domain Setup`
+<img src="https://img.shields.io/badge/-BACKEND-06B6D4?style=for-the-badge" alt="Backend" /><br/>
+<img src="https://img.shields.io/badge/Node.js-083344?style=flat-square&labelColor=06B6D4" alt="" />
+<img src="https://img.shields.io/badge/Express.js-083344?style=flat-square&labelColor=06B6D4" alt="" />
+<img src="https://img.shields.io/badge/MongoDB-083344?style=flat-square&labelColor=06B6D4" alt="" />
+<img src="https://img.shields.io/badge/REST_APIs-083344?style=flat-square&labelColor=06B6D4" alt="" />
+<img src="https://img.shields.io/badge/Postman-083344?style=flat-square&labelColor=06B6D4" alt="" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-SHOPIFY-10B981?style=for-the-badge" alt="Shopify" /><br/>
+<img src="https://img.shields.io/badge/Store_Setup-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Theme_Customization-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Liquid_Code-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Dropshipping-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Product_Hunting-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Payment_Setup-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Shipping_Setup-064E3B?style=flat-square&labelColor=10B981" alt="" />
+<img src="https://img.shields.io/badge/Domain_Setup-064E3B?style=flat-square&labelColor=10B981" alt="" />
 
 </div>
 
@@ -91,9 +142,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=34D399&center=true&vCenter=true&width=650&height=55&lines=Any+Website.+Any+Industry.;If+You+Can+Imagine+It;I+Can+Build+It" alt="Any Website" />
 
-| 🏬 E-Commerce Stores | 🏢 Business Websites | 💼 Portfolios |
-|:---:|:---:|:---:|
-| **📄 Landing Pages** | **📊 Web Apps & Dashboards** | **🔌 REST APIs & Backends** |
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/E--Commerce_Stores-7C3AED?style=for-the-badge" alt="" /><br/><sub>🏬 Shopify & custom stores</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Business_Websites-06B6D4?style=for-the-badge" alt="" /><br/><sub>🏢 Corporate & agency sites</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Portfolios-F59E0B?style=for-the-badge" alt="" /><br/><sub>💼 Personal brand showcases</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Landing_Pages-10B981?style=for-the-badge" alt="" /><br/><sub>📄 High-converting one-pagers</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/Web_Apps_%26_Dashboards-3B82F6?style=for-the-badge" alt="" /><br/><sub>📊 Admin panels & SaaS UIs</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/REST_APIs_%26_Backends-EC4899?style=for-the-badge" alt="" /><br/><sub>🔌 Secure Node.js services</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -104,9 +164,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=FBBF24&center=true&vCenter=true&width=500&height=55&lines=How+I+Work;Simple+%26+Transparent;Idea+%E2%86%92+Live" alt="How I Work" />
 
-| 1️⃣ Discover | 2️⃣ Design | 3️⃣ Develop | 4️⃣ Launch |
-|:---:|:---:|:---:|:---:|
-| Understand your goals & audience | Modern, sales-focused layouts | Clean, fast, scalable code | Go live + ongoing support |
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/1-DISCOVER-7C3AED?style=for-the-badge" alt="" /><br/><sub>Understand your goals & audience</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/2-DESIGN-EC4899?style=for-the-badge" alt="" /><br/><sub>Modern, sales-focused layouts</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/3-DEVELOP-06B6D4?style=for-the-badge" alt="" /><br/><sub>Clean, fast, scalable code</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/4-LAUNCH-10B981?style=for-the-badge" alt="" /><br/><sub>Go live + ongoing support</sub></td>
+  </tr>
+</table>
 
 </div>
 
