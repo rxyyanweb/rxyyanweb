@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== ABOUT ===================== -->
 <div align="center">
@@ -42,75 +42,61 @@
 
 <br/><br/>
 
-| 🧑‍💻 Role | 📍 Base | 🏆 Experience | 🟢 Status |
-|:---:|:---:|:---:|:---:|
-| Full Stack Developer & Shopify Expert | Karachi, PK | 4+ Years | Open for New Projects |
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/about.svg" width="100%" alt="About cards" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=FBBF24&center=true&vCenter=true&width=600&height=40&lines=Why+Clients+Choose+Me;Speed+%7C+Conversion+%7C+Quality+%7C+Support" alt="Why Clients Choose Me" />
+
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/why.svg" width="100%" alt="Why choose me" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== SERVICES ===================== -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=F472B6&center=true&vCenter=true&width=600&height=55&lines=Services+I+Offer;Premium+Solutions;Built+To+Convert" alt="Services" />
 
-| 🛍️ Service | ✨ What You Get |
-|:---|:---|
-| **🚀 Complete Shopify Store Setup** | Zero to Live: a fully working, launch-ready store |
-| **🎨 Theme Customization & Liquid Code** | Custom sections, layouts and features tailored to your brand |
-| **📦 Dropshipping Store Setup + Product Hunting** | Winning products plus a store engineered to sell |
-| **💳 Payment, Shipping & Domain Setup** | Gateways, delivery rules and your domain, all configured |
-| **⚡ Speed Optimization & Sales Focused Design** | Lightning-fast load times, cleaner UX, higher conversions |
-| **🌐 Fast, Scalable & Conversion-Focused Websites** | Modern custom websites built to grow with your business |
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/services.svg" width="100%" alt="Services" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,7&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== TECH STACK ===================== -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Tech+Stack;My+Toolbox;Modern+%26+Powerful" alt="Tech Stack" />
 
-### 🎨 Frontend
-`TypeScript` `JavaScript` `Next.js` `React.js` `Tailwind CSS` `HTML5` `CSS3`
-
-### ⚙️ Backend
-`Node.js` `Express.js` `MongoDB` `REST APIs` `Postman`
-
-### 🛒 Shopify
-`Store Setup` `Theme Customization` `Liquid Code` `Dropshipping Setup` `Product Hunting` `Payment Setup` `Shipping Setup` `Domain Setup`
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/skills.svg" width="100%" alt="Tech Stack" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,8&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== ANY WEBSITE ===================== -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=34D399&center=true&vCenter=true&width=650&height=55&lines=Any+Website.+Any+Industry.;If+You+Can+Imagine+It;I+Can+Build+It" alt="Any Website" />
 
-| 🏬 E-Commerce Stores | 🏢 Business Websites | 💼 Portfolios |
-|:---:|:---:|:---:|
-| **📄 Landing Pages** | **📊 Web Apps & Dashboards** | **🔌 REST APIs & Backends** |
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/anysite.svg" width="100%" alt="Any website" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,14&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== WORKFLOW ===================== -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=FBBF24&center=true&vCenter=true&width=500&height=55&lines=How+I+Work;Simple+%26+Transparent;Idea+%E2%86%92+Live" alt="How I Work" />
 
-| 1️⃣ Discover | 2️⃣ Design | 3️⃣ Develop | 4️⃣ Launch |
-|:---:|:---:|:---:|:---:|
-| Understand your goals & audience | Modern, sales-focused layouts | Clean, fast, scalable code | Go live + ongoing support |
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/workflow.svg" width="100%" alt="How I work" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,5&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
@@ -121,7 +107,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/rxyyanweb/rxyyanweb/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ===================== CTA ===================== -->
 <div align="center">
