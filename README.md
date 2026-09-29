@@ -22,61 +22,56 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== ABOUT ===================== -->
 <div align="center">
 
-## ⚡ About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&height=55&lines=About+Me;Who+I+Am;What+I+Do" alt="About Me" />
 
-</div>
-
-<p align="center">
-  👋 Hi, I'm <b>Rayyan Lodhi</b> — a <b>Full Stack Developer & Shopify Expert</b> based in <b>Karachi, Pakistan</b> 🇵🇰<br/>
-  With <b>4+ years of experience</b>, I build fast, scalable and conversion-focused websites<br/>
-  and high-performing Shopify stores that turn visitors into paying customers.
+<p>
+  <b>I don't just build websites, I build growth engines.</b><br/>
+  I'm <b>Rayyan Lodhi</b>, a <b>Full Stack Developer & Shopify Expert</b> from <b>Karachi, Pakistan</b> 🇵🇰<br/>
+  With <b>4+ years</b> of hands-on experience, I turn ideas into <b>fast, scalable, conversion-focused</b> digital products<br/>
+  that look premium, load instantly and turn visitors into paying customers.
 </p>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Design-That%20Sells-7C3AED?style=for-the-badge" alt="Design That Sells" />
+<img src="https://img.shields.io/badge/Code-That%20Scales-06B6D4?style=for-the-badge" alt="Code That Scales" />
+<img src="https://img.shields.io/badge/Results-That%20Show-10B981?style=for-the-badge" alt="Results That Show" />
 
-| 🧑‍💻 Role | 📍 Location | 🏆 Experience | 📬 Availability |
+<br/><br/>
+
+| 🧑‍💻 Role | 📍 Base | 🏆 Experience | 🟢 Status |
 |:---:|:---:|:---:|:---:|
-| Full Stack Developer & Shopify Expert | Karachi, PK | 4+ Years | Open for Projects |
+| Full Stack Developer & Shopify Expert | Karachi, PK | 4+ Years | Open for New Projects |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== SERVICES ===================== -->
 <div align="center">
 
-## 🚀 Services I Offer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=F472B6&center=true&vCenter=true&width=600&height=55&lines=Services+I+Offer;Premium+Solutions;Built+To+Convert" alt="Services" />
 
-</div>
-
-<div align="center">
-
-| 🛍️ Service | 📝 What You Get |
+| 🛍️ Service | ✨ What You Get |
 |:---|:---|
-| **Complete Shopify Store Setup** | Zero to Live: a fully working store, ready to sell |
-| **Theme Customization & Liquid Code** | Custom sections, layouts and features tailored to your brand |
-| **Dropshipping Store Setup + Product Hunting** | Winning products plus a store built to convert |
-| **Payment, Shipping & Domain Setup** | Gateways, delivery rules and domain fully configured |
-| **Speed Optimization & Sales Focused Design** | Faster load times, cleaner UX, higher conversions |
-| **Fast, Scalable & Conversion-Focused Websites** | Custom websites built with modern tech |
+| **🚀 Complete Shopify Store Setup** | Zero to Live: a fully working, launch-ready store |
+| **🎨 Theme Customization & Liquid Code** | Custom sections, layouts and features tailored to your brand |
+| **📦 Dropshipping Store Setup + Product Hunting** | Winning products plus a store engineered to sell |
+| **💳 Payment, Shipping & Domain Setup** | Gateways, delivery rules and your domain, all configured |
+| **⚡ Speed Optimization & Sales Focused Design** | Lightning-fast load times, cleaner UX, higher conversions |
+| **🌐 Fast, Scalable & Conversion-Focused Websites** | Modern custom websites built to grow with your business |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,7&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== TECH STACK ===================== -->
 <div align="center">
 
-## 🛠️ Tech Stack
-
-</div>
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&height=55&lines=Tech+Stack;My+Toolbox;Modern+%26+Powerful" alt="Tech Stack" />
 
 ### 🎨 Frontend
 `TypeScript` `JavaScript` `Next.js` `React.js` `Tailwind CSS` `HTML5` `CSS3`
@@ -89,42 +84,54 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,8&height=3&section=header" width="100%" alt="divider" />
+
+<!-- ===================== ANY WEBSITE ===================== -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=34D399&center=true&vCenter=true&width=650&height=55&lines=Any+Website.+Any+Industry.;If+You+Can+Imagine+It;I+Can+Build+It" alt="Any Website" />
+
+| 🏬 E-Commerce Stores | 🏢 Business Websites | 💼 Portfolios |
+|:---:|:---:|:---:|
+| **📄 Landing Pages** | **📊 Web Apps & Dashboards** | **🔌 REST APIs & Backends** |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9,14&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== WORKFLOW ===================== -->
 <div align="center">
 
-## 🔄 How I Work
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=FBBF24&center=true&vCenter=true&width=500&height=55&lines=How+I+Work;Simple+%26+Transparent;Idea+%E2%86%92+Live" alt="How I Work" />
 
 | 1️⃣ Discover | 2️⃣ Design | 3️⃣ Develop | 4️⃣ Launch |
 |:---:|:---:|:---:|:---:|
-| Understand your goals & audience | Sales-focused, modern layouts | Clean, fast, scalable code | Go live + ongoing support |
+| Understand your goals & audience | Modern, sales-focused layouts | Clean, fast, scalable code | Go live + ongoing support |
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,5&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== GITHUB STATS ===================== -->
 <div align="center">
 
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=60A5FA&center=true&vCenter=true&width=400&height=55&lines=GitHub+Stats" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com?user=rxyyanweb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=rxyyanweb&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%" alt="divider" />
 
 <!-- ===================== CTA ===================== -->
 <div align="center">
 
-## 💬 Ready to Grow Your Business?
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1500&color=25D366&center=true&vCenter=true&width=750&height=55&lines=Ready+to+Grow+Your+Business%3F;Shopify+Stores+%7C+Custom+Websites+%7C+Web+Apps;Let's+Turn+Your+Idea+Into+Revenue" alt="CTA" />
 
 <p>
-  Whether you need a <b>brand-new Shopify store</b>, a <b>custom website</b>, or a <b>speed & design upgrade</b> —<br/>
-  let's turn your idea into a revenue-generating machine.
+  From a <b>brand-new Shopify store</b> to a <b>custom website of any type</b>,<br/>
+  I build it <b>fast, beautiful and conversion-ready</b>.<br/>
+  Your vision + my code = a business that stands out. 🚀
 </p>
 
 <a href="https://wa.me/923481807287">
